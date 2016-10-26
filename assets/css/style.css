@@ -93,14 +93,11 @@ img {
 .link-1 {
   padding: 2px;
   color: #6599ff;
-  text-decoration: none;
-  -webkit-transition: background-color .7s;
-  -moz-transition: background-color .7s;
-  transition: background-color .7s;
+  text-decoration: underline;
 }
 
 .link-1:hover {
-  background-color: #e6e6e6;
+
 }
 
 
@@ -492,23 +489,6 @@ img {
 
 @media (min-width: 769px) {
   .index-wrapper {
-    position: absolute;
-    top: 40%;
-    right: 0;
-    left: 0;
-    margin-right: auto;
-    margin-left: auto;
-    padding-top: 0;
-  }
-}
-
-.index-maininfo {
-  padding-top: 15%;
-  text-align: left;
-}
-
-@media (min-width: 769px) {
-  .index-maininfo {
     position: absolute;
     top: 40%;
     right: 0;
