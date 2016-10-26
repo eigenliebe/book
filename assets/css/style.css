@@ -124,7 +124,7 @@ color: #f41224;
 .page-container {
   position: relative;
   padding-top: 55px;
-  font-family: Georgia, Serif;
+  font-family: ‘Arial Narrow’, sans-serif
 }
 
 
@@ -471,7 +471,7 @@ color: #f41224;
 }
 
 .english {
- font-family: Georgia, Serif;
+ font-family: ‘Arial Narrow’, sans-serif
   line-height: 21px;
 }
 
