@@ -91,12 +91,18 @@ img {
 }
 
 .link-1 {
-  color: #6599ff;
+  transition: color .4s;
+  color: #265C83;
   text-decoration: underline;
 }
 
 .link-1:hover {
+color: #7FDBFF;
+}
 
+.link1:active  {
+  transition: color .3s;
+  color: #007BE6;
 }
 
 
