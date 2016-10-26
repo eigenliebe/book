@@ -91,7 +91,7 @@ img {
 }
 
 .link-1 {
-  transition: color .4s;
+  transition: color .3s;
   color: #0089ff;
   text-decoration: underline;
 }
@@ -124,7 +124,7 @@ color: #f41224;
 .page-container {
   position: relative;
   padding-top: 55px;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "Avenir", helvetica,arial,sans-serif;
   letter-spacing: .09em;
 }
 
