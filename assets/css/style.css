@@ -124,13 +124,16 @@ color: #f41224;
 .page-container {
   position: relative;
   padding-top: 55px;
-  font-family: "Avenir", helvetica, arial, sans-serif;
+  font-family: ‘Palatino Linotype’, ‘Book Antiqua’, Palatino, serif;
+}
+
+
 }
 
 .page-container:before {
   content: "";
   position: absolute;
-  top: -40%;
+  top: -55px;
   left:0;
   right:0;
   margin-left:auto;
@@ -468,7 +471,7 @@ color: #f41224;
 }
 
 .english {
- font-family: "Avenir", helvetica, arial, sans-serif;
+ font-family: ‘Palatino Linotype’, ‘Book Antiqua’, Palatino, serif;
   line-height: 21px;
 }
 
