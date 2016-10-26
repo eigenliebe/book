@@ -130,7 +130,7 @@ color: #f41224;
 .page-container:before {
   content: "";
   position: absolute;
-  top: -55px;
+  top: -40%;
   left:0;
   right:0;
   margin-left:auto;
