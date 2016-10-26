@@ -124,8 +124,7 @@ color: #f41224;
 .page-container {
   position: relative;
   padding-top: 55px;
-  font-family: "Avenir", helvetica,arial,sans-serif;
-  letter-spacing: .09em;
+  font-family: "Avenir", helvetica, arial, sans-serif;
 }
 
 .page-container:before {
@@ -469,7 +468,7 @@ color: #f41224;
 }
 
 .english {
-  font-family: "Titillium Web", sans-serif;
+ font-family: "Avenir", helvetica, arial, sans-serif;
   line-height: 21px;
 }
 
