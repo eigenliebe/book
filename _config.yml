@@ -1,20 +1,14 @@
-title: Book
-description: Programmer & Traveler.
-url: http://kkninjae.com
+title: Radchenko
+description: They write.
+url: http://alotmore.space/
 avatar: /book/assets/img/avatar.jpg
 favicon: /assets/img/favicon.ico
-google_analytics: UA-66887095-1
-disqus_shortname: kkninjae
+google_analytics: 
+disqus_shortname: 
 
 about:
-  - paragraph: ?link?, a simple Jekyll theme. Built by ?link?
+  - paragraph: Radchenko is a poet. They write.
     text_align: center
-    links:
-      - name: Book
-        url: https://github.com/kkninjae/book
-        external: true
-      - name: Lang Liu
-        url: http://kkninjae.com/about/
-        external: false
+
 
     
