@@ -108,7 +108,7 @@ color: #f41224;
   content: "";
   display: block;
   padding-top: 50%;
-  background-color: #f8f8f8;
+  background-color: #1b79cb;
 }
 
 @media (min-width: 769px) {
@@ -117,7 +117,7 @@ color: #f41224;
   }
 
   .page-wrapper {
-    background-color: #f8f8f8;
+    background-color: #1b79cb;
   }
 }
 
